@@ -1,4 +1,4 @@
-package com.gsf.unit;
+package gsf.unit;
 
 public class Weapon {
     private String type;

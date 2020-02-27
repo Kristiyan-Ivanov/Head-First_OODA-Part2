@@ -1,4 +1,4 @@
-package com.gsf.unit;
+package gsf.unit;
 
 import java.util.HashMap;
 import java.util.LinkedList;

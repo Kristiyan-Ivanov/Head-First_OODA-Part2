@@ -1,7 +1,7 @@
-package com.gsf.board;
+package gsf.board;
 
-import com.gsf.enums.Terrain;
-import com.gsf.unit.Unit;
+import gsf.enums.Terrain;
+import gsf.unit.Unit;
 
 import java.util.LinkedList;
 import java.util.List;

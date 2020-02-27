@@ -1,13 +1,13 @@
-package com.gsf.board;
+package gsf.board;
 
-import com.gsf.unit.Unit;
+import gsf.unit.Unit;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class Board {
     private int width, height;
-    // 2d board consists composed of list of lists with com.gsf.board.Tile Objects
+    // 2d board consists composed of list of lists with gsf.board.Tile Objects
     private List<List<Tile>> tiles;
 
     public Board(int width, int height) {

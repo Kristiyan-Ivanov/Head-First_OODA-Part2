@@ -1,13 +1,13 @@
-package com.gsf;
+package gsf;
 
-import com.gsf.unit.Unit;
-import com.gsf.unit.UnitGroup;
-import com.gsf.unit.Weapon;
+import gsf.unit.Unit;
+import gsf.unit.UnitGroup;
+import gsf.unit.Weapon;
 
 import java.util.HashSet;
 import java.util.List;
 
-public class UnitTester {
+class UnitTester {
 
     public void testType(Unit unit, String type, String expectedOutputType) {
         System.out.println("\nTesting setting/getting the type properly.");

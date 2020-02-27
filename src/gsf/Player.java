@@ -1,4 +1,4 @@
-package com.gsf;
+package gsf;
 
 public class Player {
 

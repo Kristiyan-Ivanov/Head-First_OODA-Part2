@@ -1,8 +1,8 @@
-package com.gsf;
+package gsf;
 
-import com.gsf.unit.Unit;
-import com.gsf.unit.UnitGroup;
-import com.gsf.unit.Weapon;
+import gsf.unit.Unit;
+import gsf.unit.UnitGroup;
+import gsf.unit.Weapon;
 
 import java.util.LinkedList;
 import java.util.List;

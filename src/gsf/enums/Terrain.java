@@ -1,4 +1,4 @@
-package com.gsf.enums;
+package gsf.enums;
 
 public enum Terrain {
     GRASS;
